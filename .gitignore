@@ -1,16 +1,7 @@
-# نادیده‌گرفتن داده‌های خام و پردازش‌شده
-data/raw/
-data/derived/
-
-# نادیده‌گرفتن محیط مجازی پایتون
 .venv/
-env/
-venv/
-
-# فایل‌های کش پایتون
 __pycache__/
-*.pyc
-*.ipynb_checkpoints/
-
-# فایل‌های موقت سیستم عامل
-.DS_Store
+.ipynb_checkpoints/
+data/raw/
+data/processed/
+*.csv
+*.zip
